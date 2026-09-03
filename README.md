@@ -25,6 +25,16 @@ Exploratory Data Analysis on the US Arrests dataset (1973) containing arrest sta
 ## Tools Used
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 
+  ## Visualizations
+
+![Top 10 States by Crime](images/one.png)
+
+![Crime Distributions](images/two.png)
+
+![Correlation Heatmap](images/three.png)
+
+![Murder vs Assault Scatter Plot](images/four.png)
+
   ## Full Report
 [Download Notebook](EDA_Report_US_Arrests.ipynb)
 
